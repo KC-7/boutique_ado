@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /accounts/
+Disallow: /bag/
+Sitemap: https://kc-boutique-ado-fb080e3c3917.herokuapp.com/sitemap.xml
